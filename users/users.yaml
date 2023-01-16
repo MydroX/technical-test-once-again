@@ -1,0 +1,15 @@
+users:
+- firstname: Paul
+  lastname: Jack
+- firstname: Foo
+  lastname: Bar
+- {}
+- firstname: Toto
+  lastname: Tata
+- firstname: Pierre
+  lastname: Dupont
+- firstname: Paul
+  lastname: Jack
+- null
+- firstname: Abc
+  lastname: Def
